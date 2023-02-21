@@ -1,0 +1,16 @@
+*{
+background-color: rgb(255,193,7);
+
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#id{
+    display: flex;
+    align-items: center;
+    font-size: larger;
+}
+.weather{
+    font-size: xx-large;
+}
+#shift{
+
+}
